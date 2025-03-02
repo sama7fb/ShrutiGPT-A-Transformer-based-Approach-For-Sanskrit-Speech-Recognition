@@ -1,1 +1,2 @@
 # ShrutiGPT-A-Transformer-based-Approach-For-Sanskrit-Speech-Recognition
+This project represents a step towards making Sanskrit more accessible and engaging for scholars, educators, and learners. It aims to demonstrate how cuttingedge AI techniques can be applied to ancient languages, ensuring their relevance in contemporary technological landscapes. ShrutiGPT is not just a tool for transcription—it is a bridge between tradition and innovation.
